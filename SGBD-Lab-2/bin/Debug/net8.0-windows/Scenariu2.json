@@ -1,0 +1,51 @@
+{
+  "connectionString": "Data Source=localhost\\SQLEXPRESS;Initial Catalog=SGBD_LAB_1;Integrated Security=True;Encrypt=True;Trust Server Certificate=True",
+  "title": "TRANZACTIE && CUMPARATORI",
+  "parent": {
+    "table": "CUMPARATORI",
+    "columns": [
+      {
+        "name": "CumparatorId",
+        "type": "int"
+      },
+      {
+        "name": "Nume",
+        "type": "varchar"
+      },
+      {
+        "name": "Data_Nasterii",
+        "type": "date"
+      }
+    ],
+    "selectCommand": "SELECT * FROM CUMPARATORI"
+  },
+  "child": {
+    "table": "TRANZACTIE",
+    "columns": [
+      {
+        "name": "TranzactieId",
+        "type": "int"
+      },
+      {
+        "name": "NumeMed",
+        "type": "varchar"
+      },
+      {
+        "name": "Cantitate",
+        "type": "int"
+      },
+      {
+        "name": "DataTranzactie",
+        "type": "date"
+      },
+      {
+        "name": "CumparatorId",
+        "type": "int"
+      }
+    ],
+    "selectCommand": "SELECT * FROM TRANZACTIE Where CumparatorId = @id",
+    "insertCommand": "INSERT INTO TRANZACTIE(NumeMed, Cantitate, DataTranzactie, CumparatorId) VALUES (@numemed, @cantitate, @datatranzactie, @cumparatorid)",
+    "deleteCommand": "DELETE FROM TRANZACTIE WHERE TranzactieId = @id",
+    "updateCommand": "UPDATE TRANZACTIE SET NumeMed = @numemed, Cantitate = @cantitate, DataTranzactie = @datatranzactie WHERE TranzactieId = @id"
+  }
+}

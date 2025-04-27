@@ -1,0 +1,52 @@
+{
+  "connectionString": "Data Source=localhost\\SQLEXPRESS;Initial Catalog=SGBD_LAB_1;Integrated Security=True;Encrypt=True;Trust Server Certificate=True",
+  "title": "FARMACIE_DETALII && MEDICAMENTE",
+  "parent": {
+    "table": "FARMACIE_DETALII",
+    "columns": [
+      { "name": "FarmacieId", "type" : "int" },
+      { "name": "Nume", "type" :  "varchar" },
+      {
+        "name": "Locatie", 
+        "type":  "varchar"
+      }
+    ],
+    "selectCommand": "SELECT * FROM FARMACIE_DETALII"
+  },
+  "child": {
+    "table": "MEDICAMENTE",
+    "columns": [
+      {
+        "name": "MedicamentId",
+        "type": "int"
+
+      },
+      {
+        "name": "Nume",
+        "type": "varchar"
+
+      },
+      {
+        "name": "Descriere",
+        "type": "varchar" 
+      },
+      {
+        "name": "Pret",
+        "type": "float"
+      },
+      {
+        "name": "Stoc",
+        "type": "int"
+
+      },
+      {
+        "name": "FarmacieId",
+        "type": "int"
+      }
+    ],
+    "selectCommand": "SELECT * FROM MEDICAMENTE Where FarmacieId = @id",
+    "insertCommand": "INSERT INTO MEDICAMENTE(Nume,Descriere,Pret,Stoc,FarmacieId) VALUES (@nume,@descriere,@pret,@stoc,@farmacieid)",
+    "deleteCommand": "DELETE FROM MEDICAMENTE WHERE MedicamentId = @id",
+    "updateCommand": "UPDATE MEDICAMENTE SET Nume = @nume, Descriere = @descriere, Pret = @pret, Stoc = @stoc WHERE MedicamentId = @id"
+  }
+}

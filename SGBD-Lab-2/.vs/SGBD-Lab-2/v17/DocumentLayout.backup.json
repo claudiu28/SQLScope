@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-2\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-2\\scenariu2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|solutionrelative:scenariu2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-2\\app.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|solutionrelative:app.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-2\\scenariu1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|solutionrelative:scenariu1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-2\\models\\columnsprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|solutionrelative:models\\columnsprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-2\\models\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|solutionrelative:models\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-2\\models\\entityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|solutionrelative:models\\entityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-2\\sgbd-lab-2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1BFF686-4580-4ADC-9387-412BAEC045E6}|SGBD-Lab-2.csproj|solutionrelative:sgbd-lab-2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scenariu2.json",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\Scenariu2.json",
+              "RelativeDocumentMoniker": "Scenariu2.json",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\Scenariu2.json",
+              "RelativeToolTip": "Scenariu2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T16:45:16.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scenariu1.json",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\Scenariu1.json",
+              "RelativeDocumentMoniker": "Scenariu1.json",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\Scenariu1.json",
+              "RelativeToolTip": "Scenariu1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T15:47:20.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\Models\\Config.cs",
+              "RelativeDocumentMoniker": "Models\\Config.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\Models\\Config.cs",
+              "RelativeToolTip": "Models\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:47:05.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColumnsProps.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\Models\\ColumnsProps.cs",
+              "RelativeDocumentMoniker": "Models\\ColumnsProps.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\Models\\ColumnsProps.cs",
+              "RelativeToolTip": "Models\\ColumnsProps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:06:47.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\App.cs",
+              "RelativeDocumentMoniker": "App.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\App.cs [Design]*",
+              "RelativeToolTip": "App.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:54:30.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\App.cs",
+              "RelativeDocumentMoniker": "App.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\App.cs*",
+              "RelativeToolTip": "App.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:09:27.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\App.Designer.cs",
+              "RelativeDocumentMoniker": "App.Designer.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\App.Designer.cs",
+              "RelativeToolTip": "App.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:34:35.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\Models\\EntityConfig.cs",
+              "RelativeDocumentMoniker": "Models\\EntityConfig.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\Models\\EntityConfig.cs",
+              "RelativeToolTip": "Models\\EntityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:39:22.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SGBD-Lab-2.csproj",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\SGBD-Lab-2.csproj",
+              "RelativeDocumentMoniker": "SGBD-Lab-2.csproj",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\SGBD-Lab-2.csproj",
+              "RelativeToolTip": "SGBD-Lab-2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T17:05:25.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:03:22.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

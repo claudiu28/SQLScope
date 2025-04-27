@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A35E7FF-EF38-4DF7-84C3-FE182F7EF3A3}|LaboratorSGBD1\\LaboratorSGBD1.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-1\\laboratorsgbd1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A35E7FF-EF38-4DF7-84C3-FE182F7EF3A3}|LaboratorSGBD1\\LaboratorSGBD1.csproj|solutionrelative:laboratorsgbd1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A35E7FF-EF38-4DF7-84C3-FE182F7EF3A3}|LaboratorSGBD1\\LaboratorSGBD1.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-1\\laboratorsgbd1\\model\\tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{3A35E7FF-EF38-4DF7-84C3-FE182F7EF3A3}|LaboratorSGBD1\\LaboratorSGBD1.csproj|solutionrelative:laboratorsgbd1\\model\\tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A35E7FF-EF38-4DF7-84C3-FE182F7EF3A3}|LaboratorSGBD1\\LaboratorSGBD1.csproj|C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-1\\laboratorsgbd1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A35E7FF-EF38-4DF7-84C3-FE182F7EF3A3}|LaboratorSGBD1\\LaboratorSGBD1.csproj|solutionrelative:laboratorsgbd1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A35E7FF-EF38-4DF7-84C3-FE182F7EF3A3}|LaboratorSGBD1\\LaboratorSGBD1.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-1\\laboratorsgbd1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A35E7FF-EF38-4DF7-84C3-FE182F7EF3A3}|LaboratorSGBD1\\LaboratorSGBD1.csproj|solutionrelative:laboratorsgbd1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-1\\LaboratorSGBD1\\Program.cs",
+              "RelativeDocumentMoniker": "LaboratorSGBD1\\Program.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-1\\LaboratorSGBD1\\Program.cs",
+              "RelativeToolTip": "LaboratorSGBD1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:56:50.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-1\\LaboratorSGBD1\\Main.cs",
+              "RelativeDocumentMoniker": "LaboratorSGBD1\\Main.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-1\\LaboratorSGBD1\\Main.cs",
+              "RelativeToolTip": "LaboratorSGBD1\\Main.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowHUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:19:16.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tables.sql",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-1\\LaboratorSGBD1\\Model\\Tables.sql",
+              "RelativeDocumentMoniker": "LaboratorSGBD1\\Model\\Tables.sql",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-1\\LaboratorSGBD1\\Model\\Tables.sql",
+              "RelativeToolTip": "LaboratorSGBD1\\Model\\Tables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-01T19:56:44.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-1\\LaboratorSGBD1\\Main.cs",
+              "RelativeDocumentMoniker": "LaboratorSGBD1\\Main.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\LaboratorSGBD1\\LaboratorSGBD1\\Main.cs [Design]",
+              "RelativeToolTip": "..\\LaboratorSGBD1\\LaboratorSGBD1\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T17:04:05.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
