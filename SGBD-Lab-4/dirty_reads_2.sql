@@ -1,0 +1,23 @@
+﻿use SGBD_LAB_4
+go
+
+-- T2: select + delay + select
+PRINT 'T2: READ UNCOMMITTED';
+-- set : committed
+SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;
+
+PRINT 'T2: START';
+BEGIN TRAN;
+
+PRINT 'T2: Read 1';
+SELECT * FROM MEDICAMENTE WHERE MedicamentId = 1;
+
+PRINT 'T2: Wait 10 secunde...';
+WAITFOR DELAY '00:00:10';
+
+PRINT 'T2: Read 2';
+SELECT * FROM MEDICAMENTE WHERE MedicamentId = 1;
+
+PRINT 'T2: Commit';
+COMMIT;
+
