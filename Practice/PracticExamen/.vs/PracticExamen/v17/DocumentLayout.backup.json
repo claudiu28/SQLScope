@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\PracticExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C221542-2E18-4C79-AF52-CA34E9017BFC}|PracticExamen\\PracticExamen.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\practice\\practicexamen\\practicexamen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C221542-2E18-4C79-AF52-CA34E9017BFC}|PracticExamen\\PracticExamen.csproj|solutionrelative:practicexamen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C221542-2E18-4C79-AF52-CA34E9017BFC}|PracticExamen\\PracticExamen.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\practice\\practicexamen\\practicexamen\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C221542-2E18-4C79-AF52-CA34E9017BFC}|PracticExamen\\PracticExamen.csproj|solutionrelative:practicexamen\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C221542-2E18-4C79-AF52-CA34E9017BFC}|PracticExamen\\PracticExamen.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\practice\\practicexamen\\practicexamen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C221542-2E18-4C79-AF52-CA34E9017BFC}|PracticExamen\\PracticExamen.csproj|solutionrelative:practicexamen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C221542-2E18-4C79-AF52-CA34E9017BFC}|PracticExamen\\PracticExamen.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\practice\\practicexamen\\practicexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C221542-2E18-4C79-AF52-CA34E9017BFC}|PracticExamen\\PracticExamen.csproj|solutionrelative:practicexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\PracticExamen\\PracticExamen\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "PracticExamen\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\PracticExamen\\PracticExamen\\Main.Designer.cs",
+              "RelativeToolTip": "PracticExamen\\Main.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:07:33.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\PracticExamen\\PracticExamen\\Main.cs",
+              "RelativeDocumentMoniker": "PracticExamen\\Main.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\PracticExamen\\PracticExamen\\Main.cs",
+              "RelativeToolTip": "PracticExamen\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:06:33.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\PracticExamen\\PracticExamen\\Program.cs",
+              "RelativeDocumentMoniker": "PracticExamen\\Program.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\PracticExamen\\PracticExamen\\Program.cs",
+              "RelativeToolTip": "PracticExamen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:05:42.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\PracticExamen\\PracticExamen\\Main.cs",
+              "RelativeDocumentMoniker": "PracticExamen\\Main.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\PracticExamen\\PracticExamen\\Main.cs [Design]",
+              "RelativeToolTip": "PracticExamen\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:03:49.301Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

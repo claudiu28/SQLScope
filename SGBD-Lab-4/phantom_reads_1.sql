@@ -2,7 +2,7 @@ use SGBD_LAB_4
 go
 -- read uncommitted
 -- sol : serializable
-set transaction isolation level serializable
+set transaction isolation level read uncommitted
 go
 print 'T1: Start'
 begin transaction

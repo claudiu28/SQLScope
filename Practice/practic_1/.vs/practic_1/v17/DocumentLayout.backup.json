@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\practic_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C8E0A0-9585-495B-AED6-9BC85585EA09}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\practice\\practic_1\\winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C8E0A0-9585-495B-AED6-9BC85585EA09}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C8E0A0-9585-495B-AED6-9BC85585EA09}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\practice\\practic_1\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C8E0A0-9585-495B-AED6-9BC85585EA09}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C8E0A0-9585-495B-AED6-9BC85585EA09}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\practice\\practic_1\\winformsapp1\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C8E0A0-9585-495B-AED6-9BC85585EA09}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C8E0A0-9585-495B-AED6-9BC85585EA09}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\practice\\practic_1\\winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78C8E0A0-9585-495B-AED6-9BC85585EA09}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\practic_1\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\practic_1\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:36:24.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\practic_1\\WinFormsApp1\\Main.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Main.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\practic_1\\WinFormsApp1\\Main.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:36:18.81Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\practic_1\\WinFormsApp1\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\practic_1\\WinFormsApp1\\Main.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Main.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:35:47.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\practic_1\\WinFormsApp1\\Main.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Main.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\practic_1\\WinFormsApp1\\Main.cs",
+              "RelativeToolTip": "WinFormsApp1\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:30:45.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

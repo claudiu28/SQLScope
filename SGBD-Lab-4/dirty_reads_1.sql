@@ -8,7 +8,7 @@ PRINT 'T1: Start';
 BEGIN TRANSACTION;
 
 PRINT 'T1:  Stoc = 100';
-UPDATE MEDICAMENTE SET Stoc = 100 WHERE MedicamentId = 1;
+UPDATE MEDICAMENTE SET Stoc = 80 WHERE MedicamentId = 1;
 
 PRINT 'T1: Wait 10 secunde...';
 WAITFOR DELAY '00:00:10';

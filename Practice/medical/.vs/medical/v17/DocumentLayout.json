@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\medical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B09D-573C-4A0D-A3C9-3C069637DE6A}|medic\\medic.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\practice\\medical\\medic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B09D-573C-4A0D-A3C9-3C069637DE6A}|medic\\medic.csproj|solutionrelative:medic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B09D-573C-4A0D-A3C9-3C069637DE6A}|medic\\medic.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\practice\\medical\\medic\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B09D-573C-4A0D-A3C9-3C069637DE6A}|medic\\medic.csproj|solutionrelative:medic\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B09D-573C-4A0D-A3C9-3C069637DE6A}|medic\\medic.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\practice\\medical\\medic\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7572B09D-573C-4A0D-A3C9-3C069637DE6A}|medic\\medic.csproj|solutionrelative:medic\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7572B09D-573C-4A0D-A3C9-3C069637DE6A}|medic\\medic.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\practice\\medical\\medic\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7572B09D-573C-4A0D-A3C9-3C069637DE6A}|medic\\medic.csproj|solutionrelative:medic\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\medical\\medic\\Program.cs",
+              "RelativeDocumentMoniker": "medic\\Program.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\medical\\medic\\Program.cs",
+              "RelativeToolTip": "medic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:06:00.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\medical\\medic\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "medic\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\medical\\medic\\Main.Designer.cs",
+              "RelativeToolTip": "medic\\Main.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:00:24.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\medical\\medic\\Main.cs",
+              "RelativeDocumentMoniker": "medic\\Main.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\medical\\medic\\Main.cs",
+              "RelativeToolTip": "medic\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:58:59.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\medical\\medic\\Main.cs",
+              "RelativeDocumentMoniker": "medic\\Main.cs",
+              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\Practice\\medical\\medic\\Main.cs [Design]",
+              "RelativeToolTip": "medic\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:57:20.234Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

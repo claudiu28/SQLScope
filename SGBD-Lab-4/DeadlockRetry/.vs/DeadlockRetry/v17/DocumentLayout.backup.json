@@ -7,18 +7,10 @@
       "RelativeMoniker": "D:0:0:{677B5A3B-33C7-4914-95FD-35EB0450AD32}|DeadlockRetry\\DeadlockRetry.csproj|solutionrelative:deadlockretry\\deadlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{677B5A3B-33C7-4914-95FD-35EB0450AD32}|DeadlockRetry\\DeadlockRetry.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-4\\deadlockretry\\deadlockretry\\deadlocktest.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{677B5A3B-33C7-4914-95FD-35EB0450AD32}|DeadlockRetry\\DeadlockRetry.csproj|solutionrelative:deadlockretry\\deadlocktest.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/Claudiu_SQLEXPRESS/DeadlockTest/True/SqlTable/dbo.CATEGORIE.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/Claudiu_SQLEXPRESS/DeadlockTest/True/SqlTable/dbo.MEDICAMENTE.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{677B5A3B-33C7-4914-95FD-35EB0450AD32}|DeadlockRetry\\DeadlockRetry.csproj|c:\\users\\claud\\onedrive\\desktop\\sgbd\\sgbd-lab-4\\deadlockretry\\deadlockretry\\deadlocktest.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{677B5A3B-33C7-4914-95FD-35EB0450AD32}|DeadlockRetry\\DeadlockRetry.csproj|solutionrelative:deadlockretry\\deadlocktest.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,34 +32,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.MEDICAMENTE [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/Claudiu_SQLEXPRESS/DeadlockTest/True/SqlTable/dbo.MEDICAMENTE.sql",
-              "ToolTip": "dbo.MEDICAMENTE [Data]",
+              "DocumentIndex": 1,
+              "Title": "dbo.CATEGORIE [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/Claudiu_SQLEXPRESS/DeadlockTest/True/SqlTable/dbo.CATEGORIE.sql",
+              "ToolTip": "dbo.CATEGORIE [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-10T19:01:52.276Z",
+              "WhenOpened": "2025-05-12T05:44:09.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "dbo.CATEGORIE [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/Claudiu_SQLEXPRESS/DeadlockTest/True/SqlTable/dbo.CATEGORIE.sql",
-              "ToolTip": "dbo.CATEGORIE [Data]",
+              "Title": "dbo.MEDICAMENTE [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/Claudiu_SQLEXPRESS/DeadlockTest/True/SqlTable/dbo.MEDICAMENTE.sql",
+              "ToolTip": "dbo.MEDICAMENTE [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-10T19:00:09.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DeadlockTest.sql ",
-              "DocumentMoniker": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-4\\DeadlockRetry\\DeadlockRetry\\DeadlockTest.sql",
-              "RelativeDocumentMoniker": "DeadlockRetry\\DeadlockTest.sql",
-              "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-4\\DeadlockRetry\\DeadlockRetry\\DeadlockTest.sql",
-              "RelativeToolTip": "DeadlockRetry\\DeadlockTest.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-10T18:57:56.898Z",
+              "WhenOpened": "2025-05-12T05:44:01.465Z",
               "EditorCaption": ""
             },
             {
@@ -78,7 +58,7 @@
               "RelativeDocumentMoniker": "DeadlockRetry\\Deadlock.cs",
               "ToolTip": "C:\\Users\\claud\\OneDrive\\Desktop\\SGBD\\SGBD-Lab-4\\DeadlockRetry\\DeadlockRetry\\Deadlock.cs",
               "RelativeToolTip": "DeadlockRetry\\Deadlock.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwBcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T15:23:36.839Z",
               "EditorCaption": ""

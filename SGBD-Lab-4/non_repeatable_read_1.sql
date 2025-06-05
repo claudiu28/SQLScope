@@ -1,9 +1,9 @@
 use SGBD_LAB_4
 go
 
-set transaction isolation level repeatable read 
+set transaction isolation level read uncommitted 
 -- solution : reapeatable read 
--- see bug : read uncommitted
+-- see bug : 
 print 'T1: Start'
 begin transaction
 print 'Medicamente 1'
